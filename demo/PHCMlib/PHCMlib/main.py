@@ -3,14 +3,7 @@ from Crypto.Hash import SHA256
 from Crypto.Signature import pkcs1_15
 from Crypto.Cipher import AES, PKCS1_OAEP
 import base64
-import asyncio
 import os
-
-def debug():
-    exec(open("main.py", "r").read())
-
-
-
 
 def gen_RSAkey():
     return RSA.generate(1024, os.urandom)

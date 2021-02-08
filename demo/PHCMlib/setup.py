@@ -7,4 +7,5 @@ setup(name='PHCMlib',
       author_email='gleb@gleb.tk',
       license='MIT',
       packages=['PHCMlib'],
-      zip_safe=False)
+      zip_safe=False,
+      install_requires=["pycryptodome"])
