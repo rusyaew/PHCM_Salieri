@@ -1,9 +1,0 @@
-setup.py
-PHCMlib/__init__.py
-PHCMlib/main.py
-PHCMlib.egg-info/PKG-INFO
-PHCMlib.egg-info/SOURCES.txt
-PHCMlib.egg-info/dependency_links.txt
-PHCMlib.egg-info/not-zip-safe
-PHCMlib.egg-info/requires.txt
-PHCMlib.egg-info/top_level.txt
