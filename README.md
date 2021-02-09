@@ -1,5 +1,5 @@
 # PHCM_Salieri
-![](https://img.shields.io/pypi/l/PHCMlib) ![](https://img.shields.io/pypi/wheel/PHCMlib?style=for-the-badge)
+![](https://img.shields.io/pypi/l/PHCMlib) ![](https://img.shields.io/pypi/pyversions/PHCMlib)
 Pseudo-Homomorpic Computational Module based on black-box approach and complexity of hardware reverse-engineering.
 
 In order to test PHCM on the model and server, you may download /demo. It is directory packed with randomly generated key pairs.
