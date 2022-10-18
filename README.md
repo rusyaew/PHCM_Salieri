@@ -18,5 +18,4 @@ How to change containers? `Head to server/containers. Metadata represents <firmw
 Licensing explained:
   - PHCMlib and client under MIT (since it can be used in closed sourse)
   - Server under GNU GPL v3 (there is no need in close-soursing it, since it is yours)
-  - Article under GNU GPL v3
  
